@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrF4LMxzH7DTune3LSRJbI+B028+fMhwbsRXeNylbJk0WwS3tA6mB1DM4SzqA2ko51Dhcj6FJYaw+XP63O3FRw==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/ChartsXam/ChartsXam.iOS/ChartsXam.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/microcharts.forms/0.9.5.9/microcharts.forms.0.9.5.9.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/skiasharp.views/2.80.2/skiasharp.views.2.80.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/skiasharp.views.forms/2.80.2/skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}

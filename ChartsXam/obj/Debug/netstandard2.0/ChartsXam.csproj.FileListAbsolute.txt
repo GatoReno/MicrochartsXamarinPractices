@@ -1,0 +1,14 @@
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.csprojAssemblyReference.cache
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.AssemblyInfoInputs.cache
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.AssemblyInfo.cs
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ChartsXam/ChartsXam/bin/Debug/netstandard2.0/ChartsXam.deps.json
+/Users/dmn/Projects/ChartsXam/ChartsXam/bin/Debug/netstandard2.0/ChartsXam.dll
+/Users/dmn/Projects/ChartsXam/ChartsXam/bin/Debug/netstandard2.0/ref/ChartsXam.dll
+/Users/dmn/Projects/ChartsXam/ChartsXam/bin/Debug/netstandard2.0/ChartsXam.pdb
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.dll
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ref/ChartsXam.dll
+/Users/dmn/Projects/ChartsXam/ChartsXam/obj/Debug/netstandard2.0/ChartsXam.pdb

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{76324145-95AD-4E03-A014-E35B9E2DF126}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChartsXam.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChartsXam/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ChartsXam/MainPage.xaml" Line="12" Column="11" />
+      <File FileName="ChartsXam/MainPage.xaml.cs" Line="40" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChartsXam" expanded="True">
+            <Node name="ChartsXam" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ChartsXam.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="ChartsXam.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChartsXam.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
